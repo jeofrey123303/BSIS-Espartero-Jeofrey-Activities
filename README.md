@@ -1,4 +1,1 @@
-# BSIS Activities
-
-Full Name: Jeofrey Espartero
-Course & Year: BSIS-1
+BSIS-ESPARTERO-JEOFREY-ACTIVITIES
