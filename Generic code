@@ -1,0 +1,25 @@
+public class GenericExample<T> {
+    private T data;
+
+    public GenericExample(T data) {
+        this.data = data;
+    }
+
+    public T getData() {
+        return data;
+    }
+
+    public void setData(T data) {
+        this.data = data;
+    }
+
+    public static void main(String[] args) {
+       
+        GenericExample<Integer> intExample = new GenericExample<>(123);
+        System.out.println("Integer value: " + intExample.getData());
+
+        
+        GenericExample<String> stringExample = new GenericExample<>("Hello GitHub!");
+        System.out.println("String value: " + stringExample.getData());
+    }
+}
