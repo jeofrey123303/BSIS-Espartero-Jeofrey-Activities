@@ -1,1 +1,2 @@
-Jeofrey F. Espartero BSIS-1
+Full Name: Jeofrey Espartero
+Course & Year: BSIS-1
